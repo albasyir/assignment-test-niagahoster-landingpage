@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Bayi",
+    "best_seller": false,
+    "price": {
+      "original": 19000,
+      "discount": 14900
+    },
+    "users": 938,
+    "power": 0.5,
+    "feature": [
+      "500MB Disk Space",
+      "Unlimited Bandwidth",
+      "Unlimited Database",
+      "1 Domain",
+      "Instant Backup",
+      "Unlimited SSL Gratis Selamanya"
+    ]
+  },
+  {
+    "name": "Pelajar",
+    "best_seller": false,
+    "price": {
+      "original": 46900,
+      "discount": 23450
+    },
+    "users": 2000,
+    "power": 0.5,
+    "feature": [
+      "Unlimited Disk Space",
+      "Unlimited Bandwidth",
+      "Unlimited POP3 Email",
+      "Unlimited Database",
+      "10 Addon Domain",
+      "1 Domain",
+      "Instant Backup",
+      "Unlimited SSL Gratis Selamanya"
+    ]
+  },
+  {
+    "name": "Personal",
+    "best_seller": true,
+    "price": {
+      "original": 58900,
+      "discount": 389700
+    },
+    "users": 1120310,
+    "power": 0.5,
+    "feature": [
+      "Unlimited Disk Space",
+      "Unlimited Bandwidth",
+      "Unlimited Database",
+      "1 Domain",
+      "Instant Backup",
+      "Unlimited SSL Gratis Selamanya"
+    ]
+  },
+  {
+    "name": "Bisnis",
+    "best_seller": false,
+    "price": {
+      "original": 12,
+      "discount": 11593000
+    },
+    "users": 938,
+    "power": 0.5,
+    "feature": [
+      "Unlimited Disk Space",
+      "Unlimited Bandwidth",
+      "Unlimited Database",
+      "1 Domain",
+      "Instant Backup",
+      "Unlimited SSL Gratis Selamanya"
+    ]
+  }
+]

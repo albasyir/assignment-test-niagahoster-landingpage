@@ -1,0 +1,49 @@
+@font-face {
+  font-family: Montserrat-Black;
+  src: url(../assets/fonts/montserrat/Montserrat-Black.otf);
+}
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url(../assets/fonts/montserrat/Montserrat-Bold.otf);
+}
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url(../assets/fonts/montserrat/Montserrat-Regular.otf);
+}
+@font-face {
+  font-family: Roboto-Light;
+  src: url(../assets/fonts/roboto/Roboto-Light.ttf);
+}
+@font-face {
+  font-family: Roboto-Light;
+  src: url(../assets/fonts/roboto/Roboto-Light.ttf);
+}
+
+/* START ==> head-Navbar */
+.tag-header {
+  font-size: 12px;
+  font-family: Roboto-Light;
+}
+.header-font {
+  font-family: Montserrat-Regular;
+}
+.item-nav {
+  font-family: Montserrat-Regular;
+  margin-right: 42px;
+}
+.item {
+  margin-left: 70px;
+}
+/* END ==> head-Navbar */
+
+/* START ==> jumbotron */
+.jumbotron-title {
+  font-family: Montserrat-Bold;
+  font-size: 30px;
+  color: #616161;
+}
+.jumbotron-tagline{
+    font-family: Montserrat-Regular;
+  color: #616161;
+}
+/* END ==> jumbotron */
